@@ -1,0 +1,62 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  width: 95vw;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+li {
+  text-align: left;
+}
+
+header {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+small {
+  display: block;
+}
+
+section {
+  width: 500px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  float: left;
+  margin: 30px;
+}
+
+ul > li {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
